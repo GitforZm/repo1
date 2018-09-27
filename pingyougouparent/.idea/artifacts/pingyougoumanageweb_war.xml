@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pingyougoumanageweb:war">
+    <output-path>$PROJECT_DIR$/pingyougoumanageweb/target</output-path>
+    <root id="archive" name="pingyougou-manage-web-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="pingyougoumanageweb:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../demo" />
+    <file type="web" url="file://$PROJECT_DIR$/demo" />
+    <file type="web" url="file://$PROJECT_DIR$/pingyougoumanageweb" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougoucontentservice" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougouportalweb" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougousellergoodsservice" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougoushopweb" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougoupojo/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougoudao/pom.xml" />
+        <option value="$PROJECT_DIR$/pingyougoucommon/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougousellergoodsinterface/pom.xml" />
+        <option value="$PROJECT_DIR$/pingyougoumanageweb/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougousellergoodsservice/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougoushopweb/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../demo1/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougoucontentinterface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougoucontentservice/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougouportalweb/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" project-jdk-name="9.0" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+</project>
